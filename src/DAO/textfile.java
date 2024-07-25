@@ -9,5 +9,7 @@ package DAO;
  * @author AnhOC
  */
 public class textfile {
-    int a;
+    int a =1;
+    int b =2;
+    int c = a + b;
 }
